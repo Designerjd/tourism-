@@ -87,8 +87,7 @@ footer {
 
 nav{
     flex-direction: row;
-   
-
+}
 nav a{
     margin:8px;
 }
