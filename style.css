@@ -76,7 +76,7 @@ footer {
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 2px 8px
-    rgba(red, green, blue, alpha);
+    rgba(0,0,0,0.2);
     text-align: center;
 }
 .gallery-title{
